@@ -1,2 +1,2 @@
 # nforget
-Simple password manager so you never forget yours password
+Simple password manager so you never forget yours passwords
